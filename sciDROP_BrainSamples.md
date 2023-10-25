@@ -8,7 +8,7 @@ category: alternative
 
 ## Processing for txci-ATAC Project
 
-![sciDROP Overview](/assets/images/sciDROP.png){:width="80%"}
+![sciDROP Overview](/sciDROP.png){:width="80%"}
 
 
 Note: sciDROP was renamed to txci-ATAC for final manuscript submission. 
